@@ -1,7 +1,7 @@
 # John-Lua-Generator
 Use this however you want. I use it in my .bashrc with neofetch.
 
-Includes all quotes from the John Lua quotes github: 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
+Includes all quotes from the John Lua quotes github
 
 Example use case:
 
