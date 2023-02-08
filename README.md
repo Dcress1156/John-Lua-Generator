@@ -10,5 +10,8 @@ Example use case:
 How to use
 ----------
 
-Make sure you have Python installed and simply run 'python mr_lua.py' in your terminal. If you want to get a little crazy you can pipe into lolcat or
-even cowsay.
+Make sure you have Python installed and simply run 'python /path/to/mr_lua.py' in your terminal. If you want to get a little crazy you can pipe into lolcat or even cowsay. You can just clone the repo with git, or you can download the .py file, whatever butters your bread. 
+
+No need to thank me for the absolute genius programming that was needed for this project. Just pay your respects to John Lua.
+
+
